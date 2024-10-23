@@ -1,7 +1,12 @@
 <h2 align="center">Hi 👋, I'm Jatin Rane</h2>
-<p>👀 I’m interested in Web Development , DSA.</p>
-<p>📫 How to reach me jaitnrane23@gmail.com</p>
+<p align="center">
+<img align="center" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTY-UPXFVbSyi7jsXjpGo8Ygyjbv9b7Ov6tT0WQXRy_ied4MEiY">
+  
+</p>
+<p align="center">👀 I’m interested in Web Development , DSA.</p>
+<p align="center">📫 How to reach me jaitnrane23@gmail.com</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinrane14&color=green" alt="jatinrane14" /> </p>
+
 <h4>Let's Connect</h4>
 <a target="_blank"href="https://www.instagram.com/jatinrane_14"><img src="https://i.pinimg.com/736x/71/72/16/7172161b580470deb78078669236d2c1.jpg" height="30px"></a>
 <a target="_blank" href="https://www.linkedin.com/in/jatinrane/"><img src="https://w7.pngwing.com/pngs/402/997/png-transparent-linkedin-logo-computer-icons-facebook-user-profile-facebook-blue-angle-text.png" height="30px"></a>
