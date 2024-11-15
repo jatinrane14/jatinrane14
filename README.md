@@ -22,8 +22,14 @@
 </table>
 
 ## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
-![C++](https://img.shields.io/badge/C%2B%2B-%231572B6?logo=c%2B%2B&logoColor=white&logoSize=amd
-) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![c++](https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoSize=amd) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoSize=amd) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/Figma-%2326262e?style=for-the-badge&logo=figma&logoSize=amd)
+
+
+## <img src="https://media.giphy.com/media/kAm4u0lhDCmXnugz6p/giphy.gif?cid=ecf05e47miykjkp2s1tfkqobt22s4fsv0hcs1acqw78c7mt9&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="70px" height="50px"> My Statistics
+![JatinRane's Stats](https://github-readme-stats.vercel.app/api?username=jatinrane14&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
+![JatinRane's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jatinrane14&theme=tokyonight&hide_border=false)
+![JatinRane's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinrane14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 
 
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Let's Connect
