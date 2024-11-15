@@ -26,6 +26,9 @@
 ) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 
-## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
- <a target="_blank" href="https://www.instagram.com/jatinrane_14"><img src='https://i.pinimg.com/736x/71/72/16/7172161b580470deb78078669236d2c1.jpg' height="30px"></a>
- <a target="_blank" href="https://www.linkedin.com/in/jatinrane/"><img src="https://w7.pngwing.com/pngs/402/997/png-transparent-linkedin-logo-computer-icons-facebook-user-profile-facebook-blue-angle-text.png" height="30px"></a>
+## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Let's Connect
+[![Gmail](https://img.shields.io/badge/Gmail-%23dd4966?style=social&logo=gmail&logoSize=amd)
+]()
+[![Linkedin](https://img.shields.io/badge/linkedin-blue?style=social&logo=linkedin&logoSize=amd)
+](https://www.instagram.com/jatinrane_14)
+[![Instagram](https://img.shields.io/badge/instagram-%23983dbc?style=social&logo=instagram&logoSize=amd)](https://www.instagram.com/jatinrane_14)
