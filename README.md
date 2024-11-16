@@ -27,7 +27,7 @@
 
 ## <img src="https://media.giphy.com/media/kAm4u0lhDCmXnugz6p/giphy.gif?cid=ecf05e47miykjkp2s1tfkqobt22s4fsv0hcs1acqw78c7mt9&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="70px" height="50px"> My Statistics
 ![JatinRane's Stats](https://github-readme-stats.vercel.app/api?username=jatinrane14&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
-![JatinRane's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jatinrane14&theme=tokyonight&hide_border=false)
+![JatinRane's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jatinrane14&theme=tokyonight&hide_border=true)
 ![JatinRane's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinrane14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
