@@ -35,7 +35,6 @@
 
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Let's Connect
 [![Gmail](https://img.shields.io/badge/Gmail-%23dd4966?style=social&logo=gmail&logoSize=amd)
-]()
-[![Linkedin](https://img.shields.io/badge/linkedin-blue?style=social&logo=linkedin&logoSize=amd)
-](https://www.instagram.com/jatinrane_14)
+](jatinrane23@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-blue?style=social&logo=linkedin&logoSize=amd)](https://www.linkedin.com/in/jatinrane)
 [![Instagram](https://img.shields.io/badge/instagram-%23983dbc?style=social&logo=instagram&logoSize=amd)](https://www.instagram.com/jatinrane_14)
