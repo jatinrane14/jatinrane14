@@ -27,7 +27,7 @@
 
 ## <img src="https://media.giphy.com/media/kAm4u0lhDCmXnugz6p/giphy.gif?cid=ecf05e47miykjkp2s1tfkqobt22s4fsv0hcs1acqw78c7mt9&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="70px" height="50px"> My Statistics
 ![JatinRane's Stats](https://github-readme-stats.vercel.app/api?username=jatinrane14&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jatinrane14)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jatinrane14&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![JatinRane's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinrane14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <br>
 ![Jatinrane's Profile View](https://komarev.com/ghpvc/?username=jatinrane14&color=green)
