@@ -30,7 +30,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=jatinrane14&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![JatinRane's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinrane14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <br>
-![Jatinrane's Profile View](https://komarev.com/ghpvc/?username=jatinrane14&color=green)
 
 
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Let's Connect
