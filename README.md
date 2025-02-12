@@ -21,18 +21,18 @@
 </tr>
 </table>
 
-## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
+## Languages and Tools
 ![c++](https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoSize=amd) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoSize=amd) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/Figma-%2326262e?style=for-the-badge&logo=figma&logoSize=amd)
 
 
-## <img src="https://media.giphy.com/media/kAm4u0lhDCmXnugz6p/giphy.gif?cid=ecf05e47miykjkp2s1tfkqobt22s4fsv0hcs1acqw78c7mt9&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="70px" height="50px"> My Statistics
+## My Statistics
 ![JatinRane's Stats](https://github-readme-stats.vercel.app/api?username=jatinrane14&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jatinrane14&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![JatinRane's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinrane14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <br>
 
 
-## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Let's Connect
+## Let's Connect
 [![Gmail](https://img.shields.io/badge/Gmail-%23dd4966?style=social&logo=gmail&logoSize=amd)
 ](jatinrane23@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-blue?style=social&logo=linkedin&logoSize=amd)](https://www.linkedin.com/in/jatinrane)
