@@ -11,11 +11,11 @@
 </td>
 <td width="50%">
  
-- 🔭 I’m a Frontend Developer .
+- 🔭 I’m a Frontend Developer.
 - 👀 I’m interested in Web Development , DSA.
 - 🌱 Learning React WebFrame.
 - 🧩 Enjoy solving complex problems and creating clean, scalable code.
-- 📫 How to reach me jaitnrane23@gmail.com
+- 📫 Reach me on jaitnrane23@gmail.com
       
 </td>
 </tr>
