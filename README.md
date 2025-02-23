@@ -27,7 +27,7 @@
 
 ## My Statistics
 ![JatinRane's Stats](https://github-readme-stats.vercel.app/api?username=jatinrane14&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jatinrane14&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jatinrane14&theme=tokyonight&hide_border=true&card_width=485)](https://git.io/streak-stats)
 ![JatinRane's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinrane14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <br>
 
