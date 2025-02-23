@@ -26,9 +26,9 @@
 
 
 ## My Statistics
-![JatinRane's Stats](https://github-readme-stats.vercel.app/api?username=jatinrane14&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
+![JatinRane's Stats](https://github-readme-stats.vercel.app/api?username=jatinrane14&theme=tokyonight&show_icons=true&hide_border=true&count_private=false&card_width=460)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jatinrane14&theme=tokyonight&hide_border=true&card_width=462)](https://git.io/streak-stats)
-![JatinRane's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinrane14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_width=450)
+![JatinRane's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinrane14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <br>
 
 
