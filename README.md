@@ -11,9 +11,9 @@
 </td>
 <td width="50%">
  
-- 🔭 I’m a Frontend Developer.
+- 🔭 I’m a MERN Stack Developer.
 - 👀 I’m interested in Web Development , DSA.
-- 🌱 Learning React JS and more.
+- 🌱 Learning ADv. JAVA and more..
 - 🧩 Enjoy solving complex problems and creating clean, scalable code.
 - 📫 Email - jaitnrane23@gmail.com
       
